@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #title           :BO_user_login_check.py
 #description     :Check to get the url of the website of BO Application behind a login
-#author          :tomas.kacmar@dieboldnixdorf.com
+#author          :tomas.kacmar@xxxxx.com
 #date            :20190712
 #version         :1.0
 #usage           :python3.4 BO_user_login_check.py
